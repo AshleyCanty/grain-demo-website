@@ -2222,4 +2222,8 @@ a:focus, a:hover{
     .hero__top-section-buttons .black-button, .hero__top-section-buttons .green-demo-button{
         width: 100%;
     }
+
+    .explained-feature__header{
+        width: 100%;
+    }
 }
